@@ -1,6 +1,6 @@
-# TGWR3: Google Sheets Report Uploader
+# Sellozo ProductVu csv to Google Sheets Report Uploader
 
-This Python script reads data and uploads it to **two Google Sheets documents**, using `gspread` and Google Service Account credentials. It supports environment-based configuration using a `.env` file.
+This Python script reads data from Sellozo's ProductVu CSV, categorizes, formats into reports based on tags and uploads it to **two Google Sheets documents**, using `gspread` and Google Service Account credentials. It supports environment-based configuration using a `.env` file.
 
 ---
 
